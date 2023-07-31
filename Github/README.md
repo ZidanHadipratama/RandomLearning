@@ -64,5 +64,3 @@ Git is a version control system, providing a way to track changes in code and co
 - **`git log`**: View commit history.
 - **`git reset {{hash}}`**: Reset to a specific commit.
 - **`git reset --hard {{hash}}`**: Reset and discard changes.
-
-Remember to create a `readme.md` file to document your learning journey and improve it as you continue to explore Git and version control. Happy learning! 🚀
