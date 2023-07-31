@@ -6,7 +6,7 @@ Welcome to my learning documentation repository! Here, I store various notes, tu
 
 ## 📖 Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
 - [Topics Covered](#topics-covered)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
