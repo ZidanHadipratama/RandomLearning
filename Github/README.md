@@ -1,6 +1,6 @@
-## Git and Version Control Cheatsheet 📜
+# Git and Version Control Cheatsheet 📜
 
-### Introduction
+## Introduction
 
 Git is a version control system, providing a way to track changes in code and collaborate with others. It helps manage the history of your code, allowing you to revert changes, collaborate with other developers, and maintain different versions of your project.
 
@@ -15,16 +15,14 @@ Git is a version control system, providing a way to track changes in code and co
 
 ### Git Commands:
 
-```bash
-git --version                          # Check if Git is installed on your machine.
-git clone {{Clone with SSH}}           # Clone a repository from GitHub to your local machine.
-git status                             # Show the status of the files in your repository.
-git add .                              # Track all changes in your repository.
-git add {{file name}}                  # Track specific changes or individual files.
-git commit -m {{Title message}} -m {{Description message}}   # Save files with a commit message.
-git push origin {{Branch name (usually master)}}            # Upload commits to GitHub.
-git pull                               # Download changes from the remote repository to your local machine.
-```
+- **`git --version`**: Check if Git is installed on your machine.
+- **`git clone {{Clone with SSH}}`**: Clone a repository from GitHub to your local machine.
+- **`git status`**: Show the status of the files in your repository.
+- **`git add .`**: Track all changes in your repository.
+- **`git add {{file name}}`**: Track specific changes or individual files.
+- **`git commit -m {{Title message}} -m {{Description message}}`**: Save files with a commit message.
+- **`git push origin {{Branch name (usually master)}}`**: Upload commits to GitHub.
+- **`git pull`**: Download changes from the remote repository to your local machine.
 
 ### Connecting Local Machine to GitHub:
 
@@ -41,14 +39,12 @@ git pull                               # Download changes from the remote reposi
 
 ### Git Branching:
 
-```bash
-git branch                            # Show all branches and the current branch.
-git checkout                          # Switch between branches.
-git checkout -b {{New Branch Name}}   # Create a new branch and switch to it.
-git diff {{New Branch Name}}          # Show differences between branches.
-git merge {{New Branch Name}}         # Merge changes from another branch.
-git push --set-upstream origin {{New Branch Name}}   # Push a new branch to GitHub.
-```
+- **`git branch`**: Show all branches and the current branch.
+- **`git checkout`**: Switch between branches.
+- **`git checkout -b {{New Branch Name}}`**: Create a new branch and switch to it.
+- **`git diff {{New Branch Name}}`**: Show differences between branches.
+- **`git merge {{New Branch Name}}`**: Merge changes from another branch.
+- **`git push --set-upstream origin {{New Branch Name}}`**: Push a new branch to GitHub.
 
 ### Pull Request:
 
@@ -63,16 +59,10 @@ git push --set-upstream origin {{New Branch Name}}   # Push a new branch to GitH
 
 ### Undoing in Git:
 
-```bash
-git reset HEAD                        # Undo the most recent commit.
-git reset HEAD~1                      # Undo the last commit.
-git log                               # View commit history.
-git reset {{hash}}                    # Reset to a specific commit.
-git reset --hard {{hash}}             # Reset and discard changes.
-```
+- **`git reset HEAD`**: Undo the most recent commit.
+- **`git reset HEAD~1`**: Undo the last commit.
+- **`git log`**: View commit history.
+- **`git reset {{hash}}`**: Reset to a specific commit.
+- **`git reset --hard {{hash}}`**: Reset and discard changes.
 
-```bash
-Proudly created with GPT-3.5 by ZidanHadipratama.
-```
-
-Change `{{Clone with SSH}}`, `{{file name}}`, `{{Title message}}`, and `{{Description message}}` to the actual values relevant to your Git operations. Now, it's easier to copy and paste these commands! Happy coding! 🚀
+Remember to create a `readme.md` file to document your learning journey and improve it as you continue to explore Git and version control. Happy learning! 🚀
