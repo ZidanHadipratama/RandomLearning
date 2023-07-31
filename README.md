@@ -18,7 +18,7 @@ As a passionate learner in the field of Information Technology, I find joy in ex
 
 ## 📚 Topics Covered
 Some of the topics I cover include:
-1. [Git & GitHub](Git & GitHub)
+1. <a href="Git and GitHub">Git & GitHub</a>
 
 ## 🚀 How to Use
 
