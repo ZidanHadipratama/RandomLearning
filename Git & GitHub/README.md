@@ -169,5 +169,3 @@ Before starting a project, it's essential to agree on a branching strategy suita
 Both GitHub Flow and GitFlow have their strengths and are suited to different project sizes and development styles. Choosing the right branching strategy depends on your team's needs and the complexity of your project.
 
 **Remember, effective communication and collaboration among team members are crucial for a successful GitHub workflow. 🚀🤝**
-
-This guide is proudly created with GPT-3.5 by ZidanHadipratama. 🌟🤖🚀
