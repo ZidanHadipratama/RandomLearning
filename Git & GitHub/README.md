@@ -211,5 +211,3 @@ When a merge conflict occurs, Git cannot automatically resolve the differences, 
 6. **Commit the Merge**: With the conflicts resolved and changes staged, click on the checkmark icon (✓) in the source control tab to commit the merge. Provide a meaningful commit message that explains the changes you made to resolve the conflict.
 
 7. **Push the Changes**: After committing the merge, you can push the changes to the remote repository by clicking on the "Sync" icon in the bottom-left corner of Visual Studio Code.
-
-Feel free to explore and enjoy the wonderful world of Git and GitHub! 🎉
