@@ -175,9 +175,7 @@ Before starting a project, it's essential to agree on a branching strategy suita
 
 1. **Git Allows You to Create Branches**: However, it doesn't prescribe how to use them effectively. Therefore, have a written best practice on how your team will ideally structure work to avoid issues.
 
-2. **Consider Your Team Size and Project Complexity**: The branching strategy should suit the size of your team, the complexity of your project
-
-, and how you handle releases.
+2. **Consider Your Team Size and Project Complexity**: The branching strategy should suit the size of your team, the complexity of your project, and how you handle releases.
 
 It's crucial to onboard new team members with this information so they can quickly understand how your team collaborates using Git and GitHub.
 
