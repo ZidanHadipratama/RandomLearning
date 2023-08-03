@@ -44,6 +44,13 @@
 4. **Start Coding** 🖥️
    - Begin working on your project by adding and modifying files.
 
+   **Open the Folder in Visual Studio Code** 💡
+   If you want to open the current folder in Visual Studio Code directly from the terminal, use the following command:
+
+   ```bash
+   code .
+   ```
+
 5. **Stage Changes** 📂
    ```bash
    git add .
@@ -105,6 +112,13 @@
 2. **Work on the New Feature** 💡
    - Implement and test the new feature or make necessary changes.
 
+   **Open the Folder in Visual Studio Code** 🖥️
+   To open the current folder in Visual Studio Code directly from the terminal, use the following command:
+
+   ```bash
+   code .
+   ```
+
 3. **Stage Changes** 📂
    ```bash
    git add .
@@ -145,22 +159,38 @@
 
 ## The Right GitHub Workflow 💡
 
-### Mainline Development 🚀
+### The Perfect Commit 💡
 
-Mainline development is a development approach that emphasizes frequent integration of code changes into the main branch. It involves making small and frequent commits to the
+A crucial aspect of maintaining a clean and organized history in your Git repository is to create the perfect commit. The perfect commit involves:
 
- main branch, ensuring that the main branch always contains production-ready code. Continuous integration and automated testing play a crucial role in maintaining code quality. This approach reduces the complexity of managing multiple long-lived branches and promotes collaboration among team members.
+- **Separate Different Topics into Individual Commits**: Each commit should focus on a specific topic or task. For example, if you fixed a bug and added a new feature, create separate commits for each change.
+
+- **Give a Great Commit Message**:
+   1. **Subject**: Provide a summary of what happened in the commit.
+   2. **Body**: Include a more detailed explanation, such as what is now different than before, the reason for the change, and anything remarkable to watch out for.
 
 ### Branching Strategies 🌿
 
-Before starting a project, it's essential to agree on a branching strategy suitable for your team and project. Two popular strategies are:
+Before starting a project, it's essential to agree on a branching strategy suitable for your team and project. Defining a written convention will avoid mistakes and collisions. Consider the following points:
 
-**GitHub Flow:**
+1. **Git Allows You to Create Branches**: However, it doesn't prescribe how to use them effectively. Therefore, have a written best practice on how your team will ideally structure work to avoid issues.
+
+2. **Consider Your Team Size and Project Complexity**: The branching strategy should suit the size of your team, the complexity of your project
+
+, and how you handle releases.
+
+It's crucial to onboard new team members with this information so they can quickly understand how your team collaborates using Git and GitHub.
+
+Both GitHub Flow and GitFlow are popular branching strategies that teams use. Here's a point-by-point overview of both strategies:
+
+### GitHub Flow 🌿
+
 - Simple and suitable for small teams and projects.
 - Utilizes one long-running branch (e.g., "main") as the production branch.
 - Feature branches are created for new features or bug fixes and merged back into "main" when changes are completed and tested.
 
-**GitFlow:**
+### GitFlow 🌿
+
 - Ideal for larger projects with scheduled releases and parallel development.
 - Utilizes "main" as the production branch and "develop" as the integration branch.
 - Utilizes short-lived branches like "feature," "release," and "hotfix" for specific tasks.
@@ -168,4 +198,4 @@ Before starting a project, it's essential to agree on a branching strategy suita
 
 Both GitHub Flow and GitFlow have their strengths and are suited to different project sizes and development styles. Choosing the right branching strategy depends on your team's needs and the complexity of your project.
 
-**Remember, effective communication and collaboration among team members are crucial for a successful GitHub workflow. 🚀🤝**
+Remember, effective communication and collaboration among team members are crucial for a successful GitHub workflow. 🚀🤝
