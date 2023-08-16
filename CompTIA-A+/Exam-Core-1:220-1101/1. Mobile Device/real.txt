@@ -1,0 +1,50 @@
+CompTIA A+ 1
+
+
+Trouble shooting laptop can be challenging
+
+Some laptop are easiser to fix than others
+
+The details will be vary betweem laptop manufactures
+
+
+
+Battery inside the laptop may be easily to replaced, others require to teardown.
+
+Many battery laptop today are Lithium-Ion (Li-ion) and Lithium-Ion polymer (Lipo).
+No "memory effect"(limiting the amount of the capacity that battery might have).
+Charging the battery diminishes capacity just a bit.
+
+Each battery is different for each laptop.
+
+
+
+Keyboard is the most used component on the laptop.
+Easy to replace, usually fe screws and a single ribbon cables.
+May not always this simple.
+
+You can also connect with external USB keyboards.
+
+To access function keyboard (secondary function in f1, f2, f3, etc. key) is to hold down function key (fn) and press the function you want to use (f1, f2, or others).
+
+
+Some repair migth need to remove the keycap of the keyboard.
+
+This part is very fragile. Check with the manufacturer's instructions. And follow that instructions.
+
+
+
+All the program inside the laptop is executed inside the memory (RAM(Random Acces Memory)). If you want to improve the RAM of the laptop, better use SO-DIMM (Small Outline Dual In-line Memory Module ). This type of RAM is easy to install or replace.
+
+Some laptop RAM is soldered to the system board. This type of RAM is really hard to replace and sometimes requires a full system board replacement.
+
+
+
+Laptop also need some storage space so we can retrieve or save files in the laptop. 
+
+Older laptop usually use magnetic disk (HDD (Hard Disk Drive). For laptop is in 2.5 inch form factors, in desktops is 3.5.
+
+Newer laptop will use SSD (Solid-state drive). There is no moving part inside of it. It's fast, silent, and less latency.
+There are two form factor of SSD, 2.5" and M.2. M.2 is smaller, no SATA (Serial Advanced Technology Attachment) data or power cable rewquired, and it's easy to install.
+
+To replace the storage of a laptop, usually there is two type, one with just open a cover on the back, the other one is to open the entire of the laptop.
