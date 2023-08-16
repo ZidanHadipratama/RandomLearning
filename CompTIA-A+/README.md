@@ -5,6 +5,8 @@ Welcome to the CompTIA A+ Exam Certification Study Notes Repository! This reposi
 ## Table of Contents
 
 - [About CompTIA A+ Certification](#about-comptia-a-certification)
+- [Exam Core 1: 220-1101](#exam-core-1-220-1101-️)
+- [Exam Core 2: 220-1102](#exam-core-2-220-1102-️)
 - [Contributing](#contributing)
 - [Resources](#resources)
 - [Contact](#contact)
@@ -28,6 +30,16 @@ Continue your journey with Exam Core 2, where we delve deeper into software, sec
 - [Topic 1](./Exam%20Core%202%3A%20220-1102/Topic%201/README.md): Software Troubleshooting and Operational Procedures
 - [Topic 2](./Exam%20Core%202%3A%20220-1102/Topic%202/README.md): Security Best Practices
 - ...
+
+## How to Use
+
+1. Clone this repository to your local machine using `git clone https://github.com/your-username/comptia-a-plus-notes.git`.
+2. Navigate to the relevant exam core directory (`Exam Core 1: 220-1101` or `Exam Core 2: 220-1102`).
+3. Explore the topics within each exam core and choose the one you want to study.
+4. Click on the link to the specific topic's README.md file to access detailed study notes and resources.
+5. Read through the provided study materials, examples, and explanations.
+6. Utilize the additional resources and external links to expand your knowledge.
+7. Take notes, create flashcards, and practice with real-world scenarios to reinforce your understanding.
 
 ## Contributing 🤝
 
