@@ -19,6 +19,7 @@ As a passionate learner in the field of Information Technology, I find joy in ex
 ## 📚 Topics Covered
 Some of the topics I cover include:
 1. <a href="Git & GitHub">Git & GitHub</a>
+2. <a href="Short-UI-UX">Short UI/UX Notes</a>
 
 ## 🚀 How to Use
 
